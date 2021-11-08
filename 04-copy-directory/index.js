@@ -35,6 +35,3 @@ fs.mkdir(newFiles, { recursive: true }, (err) => {
         }) 
     })
 });
-
-
-
